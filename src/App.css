@@ -20,6 +20,8 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  /* box-shadow: 5rem ; */
+  box-shadow: 0rem 0rem 5rem hsl(212, 45%, 50%);
 }
 
 .qr-image {

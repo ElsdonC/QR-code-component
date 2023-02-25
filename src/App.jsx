@@ -7,11 +7,11 @@ function App() {
       <div className="window">
         <div className="container">
           <img className="qr-image" src={qrImg} alt="qr-code image" />
-          <h1 className="cta">
+          <p className="cta">
             Improve your front-end
             <br />
             skills by building projects
-          </h1>
+          </p>
           <p className="description">
             Scan the QR code to visit Frontend
             <br />
