@@ -26,11 +26,9 @@ function App() {
             <span><a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H" target="_blank">Frontend Mentor</a>. </span>
             <span>Coded by <a href="https://www.frontendmentor.io/profile/ElsdonC" target="_blank">Elsdon Chang</a>.</span>
           </p>
-          
-            
-           
         </div>
       </div>
+      
     </div>
   );
 }

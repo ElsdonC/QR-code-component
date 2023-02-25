@@ -14,14 +14,13 @@
 .container {
   position: relative;
   background-color: hsl(0, 0%, 100%);
-  width: 22.2%;
-  height: 62.1%;
+  width: 20rem;
+  height: 31rem;
   border-radius: 1.25rem;
   display: flex;
   flex-direction: column;
   align-items: center;
-  /* box-shadow: 5rem ; */
-  box-shadow: 0rem 0rem 5rem hsl(212, 45%, 50%);
+  box-shadow: 0rem 0rem 5rem hsl(212, 45%, 70%);
 }
 
 .qr-image {
@@ -52,13 +51,7 @@
   font-size: 0.6875rem;
   text-align: center;
 }
+
 .attribution a {
   color: hsl(228, 45%, 44%);
-}
-
-@media only screen and (max-width: 480px) {
-  .container {
-    width: 85%;
-    height: 74.5%;
-  }
 }
